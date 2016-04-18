@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiarumquaes05livyuoft_0297.png"; bbox 0 0 1572 2616; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 766 841 832 874">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 766 841 832 874">
+     <span class='ocr_line' id='line_1_1' title="bbox 766 841 832 874; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 766 841 832 874; x_wconf 88' lang='lat' dir='ltr'>DE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 302 975 1289 1033">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 302 975 1289 1033">
+     <span class='ocr_line' id='line_1_2' title="bbox 302 975 1289 1033; baseline -0.004 -2"><span class='ocrx_word' id='word_1_2' title='bbox 302 977 716 1033; x_wconf 88' lang='lat' dir='ltr'>GENTIBUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 762 978 865 1030; x_wconf 89' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_4' title='bbox 910 975 1289 1032; x_wconf 87' lang='lat' dir='ltr'>FAMILIIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 520 1135 1072 1184">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 520 1135 1072 1184">
+     <span class='ocr_line' id='line_1_3' title="bbox 520 1135 1072 1184; baseline -0.004 0"><span class='ocrx_word' id='word_1_5' title='bbox 520 1135 1072 1184; x_wconf 89' lang='lat' dir='ltr'><strong>ROMANORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 695 1349 892 1377">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 695 1349 892 1377">
+     <span class='ocr_line' id='line_1_4' title="bbox 695 1349 892 1377; baseline 0.005 -2"><span class='ocrx_word' id='word_1_6' title='bbox 695 1349 892 1377; x_wconf 80' lang='lat' dir='ltr'>AAAAAAA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 391 1477 1199 1520">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 391 1477 1199 1520">
+     <span class='ocr_line' id='line_1_5' title="bbox 391 1477 1199 1520; baseline 0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 391 1477 769 1520; x_wconf 86' lang='lat' dir='ltr'>RICHARDO</span> <span class='ocrx_word' id='word_1_8' title='bbox 810 1477 1199 1520; x_wconf 87' lang='lat' dir='ltr'>STREINNIO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 447 1610 1136 1644">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 447 1610 1136 1644">
+     <span class='ocr_line' id='line_1_6' title="bbox 447 1610 1136 1644; baseline -0.001 -2"><span class='ocrx_word' id='word_1_9' title='bbox 447 1611 647 1644; x_wconf 83' lang='lat' dir='ltr'>BARONE</span> <span class='ocrx_word' id='word_1_10' title='bbox 683 1610 1136 1644; x_wconf 81' lang='lat' dir='ltr'>SCHWARZENAVIO.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
